@@ -12,6 +12,8 @@
 
   Sub *CreateBasicWordReport*()
 
+  
+
       Dim wdApp As Word.Application
       
       Set wdApp = New Word.Application
@@ -27,6 +29,8 @@
 
 - Late binding
 
+  
+  
       Dim wdApp As Object
       
       Set wdApp = CreateObject("Word.Application")
@@ -36,6 +40,8 @@
 - Creating a New Document
 
   Sub *CreateBasicWordReport*()
+
+  
 
       Dim wdApp As Word.Application
       
@@ -52,6 +58,8 @@
 
 - Typing and Formatting Text
 
+  
+  
       With wdApp
           .Visible = True:.Activate
           
@@ -161,6 +169,8 @@ End Sub
 
   Sub *CreateBasicWordReport*()
 
+  
+  
       Dim wdApp As Word.Application
       Set wdApp = CreateObject("Word.Application")
       

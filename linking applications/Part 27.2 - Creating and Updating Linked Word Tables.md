@@ -25,7 +25,7 @@
 
   End Sub
 
-  - Pasting Linked Excel Date
+  - Pasting Linked Excel Data
 
     > Worksheets(Curs).Range("A1:C5").Copy
     >
@@ -51,6 +51,8 @@
 
   Sub CreateMultiLinkedTable()
 
+  
+
       Dim wdApp As New Word.Application
       
       'wdApp.Visible = True
@@ -75,6 +77,8 @@
 
   Sub UpdateMultiWordLinks()
 
+  
+
       Dim wdApp As New Word.Application
       
       Dim wdDoc As Word.Document
@@ -98,5 +102,3 @@ Private Const SavePath2 = "C:\Users\13198\Desktop\vba-referencing-applications\l
 
 Private Const Curs = "linked-word-tables"
 ```
-
-|item|qty|price||
