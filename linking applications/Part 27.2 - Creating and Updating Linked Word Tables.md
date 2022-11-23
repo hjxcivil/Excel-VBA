@@ -8,6 +8,8 @@
 
   Sub ***CreateLinkedTable***()
 
+  
+
   ```
   Dim wdApp As New Word.Application
   'wdApp.Visible = True
@@ -31,9 +33,15 @@
 
 - Changing the Link Source
 
-      Dim wdField As Word.Field
-      Set wdField = wdDoc.Fields(1)
-      wdField.LinkFormat.SourceFullName = ThisWorkbook.FullName
+  
+
+  ```
+  Dim wdField As Word.Field
+  Set wdField = wdDoc.Fields(1)
+  wdField.LinkFormat.SourceFullName = ThisWorkbook.FullName
+  ```
+
+  
 
 ## Creating and Updating Multiple Linked Tables
 
