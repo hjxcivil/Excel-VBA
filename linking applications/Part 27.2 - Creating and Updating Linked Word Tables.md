@@ -96,9 +96,9 @@
 ## Const Variables
 
 ```
-Private Const SavePath = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Linked Doc.docx"
+Private Const SavePath as String = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Linked Doc.docx"
 
-Private Const SavePath2 = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Multi Linked Doc.docx"
+Private Const SavePath2 as String = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Multi Linked Doc.docx"
 
-Private Const Curs = "linked-word-tables"
+Private Const Curs as String = "linked-word-tables"
 ```
