@@ -31,7 +31,7 @@ Sub CopyTableToWord()
 
   - Making Columns the Same Width 
 
-    `tbl.Columns.DistributeWidth`
+    > tbl.Columns.DistributeWidth
 
   - Setting the Preferred Width of the Table 
 
@@ -69,6 +69,8 @@ Sub CopyTableToWord()
 
 - Adding Page Breaks
 
+  > ...
+  >
   > tbl.PreferredWidth = 100
   >       wd.Selection.InsertBreak wdPageBreak
   > End If
