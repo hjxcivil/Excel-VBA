@@ -69,7 +69,7 @@
 
     - Listing Scheme Colors
 
-      <img src="../images/ListingSchemeColors.PNG" alt="ListingSchemeColors" style="zoom: 50%;" />
+      <img src="../images/ListingSchemeColors.PNG" alt="ListingSchemeColors"/>
 
       
 
