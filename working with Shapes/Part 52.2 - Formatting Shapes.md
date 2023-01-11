@@ -69,7 +69,7 @@
 
     - Listing Scheme Colors
 
-      <img src="../images/ListingSchemeColors.PNG" alt="ListingSchemeColors"/>
+      ![ListingSchemeColors](../images/ListingSchemeColors.PNG)
 
       
 
@@ -83,19 +83,36 @@
       >     s.Fill.ForeColor.SchemeColor = i
       > Next i
 
-    - Removing Fill Colors
+- Removing Fill Colors
 
-      > s.Fill.ForeColor = msoFalse
+  > s.Fill.Visible = msoFalse
 
-    - 
+- Changing the Brightness (-1 to 1)
 
-      
-
-
-
+  > s.Fill.ForeColor.Brightness = -1
 
 - Tints and Shades
+
+  > s.Fill.ForeColor.TintAndShade = -0.5
+
 - Patterns and Color Gradients
+
+- Changing back color directly is of no effect
+
+  > s.Fill.BackColor.RGB = rgbHotPink
+
+- Changing the Patterns
+
+  ![backColorChanging](../images/backColorChanging.PNG)
+
+  >  With s.Fill
+  >
+  > ​    .Patterned msoPatternLargeGrid
+  > ​    .ForeColor.RGB = rgbLimeGreen
+  > ​    .BackColor.RGB = rgbHotPink
+  >
+  > End With
+
 - Formatting Lines
 - Glow, Reflection, Shadow and Soft Edges
 - Basic 3-D Effects
