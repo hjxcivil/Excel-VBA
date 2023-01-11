@@ -69,6 +69,10 @@
 
     - Listing Scheme Colors
 
+      <img src="../images/ListingSchemeColors.PNG" alt="ListingSchemeColors" style="zoom: 50%;" />
+
+      
+
       > sWidth = 20 : sHeight  = 20 : sCols = 8
       >
       > Dim s As Shape
@@ -79,26 +83,20 @@
       >     s.Fill.ForeColor.SchemeColor = i
       > Next i
 
-      ![ListingSchemeColors](../images/ListingSchemeColors.PNG)
-
     - Removing Fill Colors
 
-    
+      > s.Fill.ForeColor = msoFalse
 
-  - 
+    - 
 
-    
+      
 
-  
+
+
 
 - Tints and Shades
-
 - Patterns and Color Gradients
-
 - Formatting Lines
-
 - Glow, Reflection, Shadow and Soft Edges
-
 - Basic 3-D Effects
-
 - Copying Formats and Setting Defaults  
