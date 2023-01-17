@@ -4,9 +4,7 @@
 
 ## Drawing User Forms in Excel VBA
 
-
-
-![basicForm](../new trail/images/basicForm.PNG)
+![basicForm](../images/basicForm.PNG)
 
 - Inserting a User Form
 
@@ -32,7 +30,7 @@
 
 - Displaying the Toolbox
 
-  ![definedColorToolboxctl](../new trail/images/definedColorToolboxctl.PNG)
+  ![definedColorToolboxctl](../images/definedColorToolboxctl.PNG)
 
 - Drawing Basic Controls
 
@@ -44,7 +42,7 @@
 
   - Naming Conventions for Controls
 
-    ![Hungarian Notation](../new trail/images/Hungarian Notation.PNG)
+    ![Hungarian Notation](../images/Hungarian Notation.PNG)
 
   - [Hungarian Notation](https://jeffpar.github.io/kbarchive/kb/173/Q173738/)
 
@@ -93,4 +91,4 @@
 
 - Running a Form: F5
 
-  ![Pt1FilmDetails](../new trail/images/Pt1FilmDetails.PNG)
+  ![Pt1FilmDetails](../images/Pt1FilmDetails.PNG)

@@ -14,7 +14,7 @@
 
 - Running a Form as a User
 
-  ![Run a Form](../new trail/images/Run a Form.PNG)
+  ![Run a Form](../images/Run a Form.PNG)
 
   - Writig Code to Run a From
 
@@ -36,7 +36,7 @@
 
 - Tabbing Through Controls
 
-  ![taporder](../new trail/images/taporder.PNG)
+  ![taporder](../images/taporder.PNG)
 
   - Changing the Tab Order[*TabIndex*]
 
@@ -53,7 +53,7 @@
 
 - Assigning Accelerator Keys
 
-  ![AcceleandCanDefault](../new trail/images/AcceleandCanDefault.PNG)
+  ![AcceleandCanDefault](../images/AcceleandCanDefault.PNG)
 
   - Misc.Accelerator
   - *Accelerator* [Alt + key]
@@ -68,5 +68,4 @@
   - *Enter* or *Esc* to Trigger Default and Cancel Property
 
   - When .. Activity ...
-
 
