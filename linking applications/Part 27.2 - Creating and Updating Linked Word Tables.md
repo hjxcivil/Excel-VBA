@@ -37,7 +37,7 @@
 
 - Changing the Linked Files Source & Write Code to Refresh
 
-  ![image-20230530162406388](../../../AppData/Roaming/Typora/typora-user-images/image-20230530162406388.png)
+  ![Uplks](../images/Uplks.PNG)
 
 #### Creating and Updating Multiple Linked Tables
 
