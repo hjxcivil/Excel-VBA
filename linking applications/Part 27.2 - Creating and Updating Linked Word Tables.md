@@ -1,104 +1,63 @@
-# Linking Excel Data in Word Documents
+## Part 27.2 - Creating and Updating Linked Word Tables
 
-[TOC]
+![wddttb](../images/wddttb.PNG)
 
-## Creating a Single - Linked Wd
+#### Creating a New Word Document
 
-- Creating a New Doc
+- Creating Sample Data
 
-  Sub ***CreateLinkedTable***()
+  ![LsSampleData](../images/LsSampleData.png)
 
-  
+  > [A1:C5]=RANDBETWEEN(1,100)
 
-  ```
-  Dim wdApp As New Word.Application
-  'wdApp.Visible = True
-  wdApp.Documents.Add
-  
-  Worksheets(Curs).Range("A1:C5").Copy
-  
-  wdApp.Selection.PasteExcelTable True, False, False
-  
-  wdApp.ActiveDocument.SaveAs2 SavePath
-  wdApp.Quit
-  ```
+- Creating a Word Doc
 
-  End Sub
+  > Dim wdApp As New Word.Application
 
-  - Pasting Linked Excel Data
+#### Pasting Linked Excel Data
 
-    > Worksheets(Curs).Range("A1:C5").Copy
-    >
-    > wdApp.Selection.PasteExcelTable True, False, False
+- Using the Paste Excel Table Method
 
+  > wdApp.Selection.PasteExcelTable True, False, False
 
+- Checking The Document are Linked (F9 to refresh..)
 
-- Changing the Link Source
+  ![Linkbsc](../images/Linkbsc.PNG)
 
-  
+- Saving a Linked Doc
 
-  ```
-  Dim wdField As Word.Field
-  Set wdField = wdDoc.Fields(1)
-  wdField.LinkFormat.SourceFullName = ThisWorkbook.FullName
-  ```
+  > wdApp.ActiveDocument.SaveAs2 _
+  >         ThisWorkbook.Path & "\Test\Linked Doc.docx"
 
-  
+#### Changing the Link Source
 
-## Creating and Updating Multiple Linked Tables
+- Viewing Links in the Word Document
 
-- Create CreateMultiLinkedTable
+  ![EditLks](../images/EditLks.PNG)
 
-  Sub CreateMultiLinkedTable()
+- Changing the Linked Files Source & Write Code to Refresh
 
-  
+  ![image-20230530162406388](../../../AppData/Roaming/Typora/typora-user-images/image-20230530162406388.png)
 
-      Dim wdApp As New Word.Application
-      
-      'wdApp.Visible = True
-      wdApp.Documents.Add
-      
-      Dim ws As Worksheet
-      For Each ws In Worksheets
-          If InStr(ws.Name, "linked-word-tables") Then
-              Debug.Print ws.Name
-              ws.Range("A1:C5").Copy
-              wdApp.Selection.PasteExcelTable True, False, False
-              wdApp.Selection.TypeParagraph
-          End If
-      Next ws
-      
-      wdApp.ActiveDocument.SaveAs2 SavePath2
-      wdApp.Quit
+#### Creating and Updating Multiple Linked Tables
 
-  End Sub
+- Create Multi Linked Table
 
-- Changing the Link Source using the Save Events
+  ![Multiwdtbl](../images/Multiwdtbl.PNG)
 
-  Sub UpdateMultiWordLinks()
+- Update Multi Word Links
 
-  
+  > Dim i As Integer
+  >     For i = 1 To wdDoc.Fields.Count
+  >         wdDoc.Fields(i).LinkFormat.SourceFullName = ThisWorkbook.FullName
+  >     Next i
 
-      Dim wdApp As New Word.Application
-      
-      Dim wdDoc As Word.Document
-      Set wdDoc = wdApp.Documents.Open(SavePath2)
-      Dim i As Integer
-      For i = 1 To wdDoc.Fields.Count
-          wdDoc.Fields(i).LinkFormat.SourceFullName = ThisWorkbook.FullName
-      Next i
-      
-      wdDoc.Save
-      wdApp.Quit
+#### Changing the Link Source using the Save Events
 
-  End Sub
+- Workbook_BeforeSave (*Click Save*)
 
-## Const Variables
+  ![bfsave](../images/bfsave.PNG)
 
-```
-Private Const SavePath as String = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Linked Doc.docx"
+- Workbook_AfterSave(*F12*)
 
-Private Const SavePath2 as String = "C:\Users\13198\Desktop\vba-referencing-applications\linked-word-tables\Test\Multi Linked Doc.docx"
-
-Private Const Curs as String = "linked-word-tables"
-```
+  ![afsv](../images/afsv.PNG)
