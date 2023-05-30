@@ -1,39 +1,16 @@
-# How do I paste and resize a picture in Word with Excel VBA
+## How do I paste and resize a picture in Word with Excel VBA
 
-[TOC]
+![wdps](../images/wdps.PNG)
 
-## Referencing the PowerPoint Object Library
+#### Creating a Word Document with Text
 
-`Microsoft Word 16.0 Object Library`
+![wdbsc](../images/wdbsc.PNG)
 
-Sub PasteWordPicAndResize()
+#### Pasting Excel Data as a Word Table
 
-    Dim wd As Word.Application
-    Set wd = New Word.Application
-    wd.Visible = True
-    
-    Dim doc As Word.Document
-    Set doc = wd.Documents.Add
-    ...
+> wd.Selection.Paste 
 
-## PasteWordPicAndResize
-
-- Typing Text into the Word Document 
-
-  > With wd.Selection
-  >         .Style = "Title"
-  >         .TypeText "Top Grossing Films"
-  >         .TypeParagraph
-  >         .Style = "Normal"
-  >
-  > ​		Worksheets(Curs).Range("A1").CurrentRegion.Copy
-  >
-  > ...
-
-  - Pasting Excel Data as a Word Table
-
-    >
-    > .Paste 'as a table
+#### Pasting Excel Data as a Picture
 
 - The PasteSpecial Method
 
@@ -60,11 +37,3 @@ Sub PasteWordPicAndResize()
   - Resizing an Inline Shape
 
     > doc.InlineShapes(1).Width = 400
-
-## Const Variables
-
-​	
-
-```
-Private Const Curs As String = "copy-excel-data-to-word"
-```
