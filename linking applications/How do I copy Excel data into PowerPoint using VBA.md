@@ -1,66 +1,25 @@
-# How do I copy Excel data into PowerPoint using VBA
+## How do I copy Excel data into PowerPoint using VBA
 
-[TOC]
+![pppfl](../images/pppfl.PNG)
 
-## Referencing the PowerPoint Object Library
+#### CopyDataIntoPowerpoint
 
-`Microsoft PowerPoint 16.0 Object Library`
+- Creating a New Presentation  &  Creating a  Blank Slide
 
-## CopyDataIntoPowerpoint
-
-- Creating a New Presentation 
-
-      Dim ppt As PowerPoint.Application:Set ppt = New PowerPoint.Application
-      Dim pres As PowerPoint.Presentation:Set pres = ppt.Presentations.Add
-
-- Creating a  Blank Slide
-
-  > Set sl = pres.Slides.Add(1, ppLayoutBlank)
-
+  ![ppblk](../images/ppblk.PNG)
+  
 - Creating Slides with a Custom Layout 
 
-  > Dim cl As PowerPoint.CustomLayout
-  > Set cl = pres.SlideMaster.CustomLayouts(7)
-  >
-  > Set sl = pres.Slides.AddSlide(1, cl)
-
+  ![adslde](../images/adslde.PNG)
+  
 - Copying and Pasting Excel Data into PowerPoint 
-      
-
-      Worksheets(Curs).Range("A1").CurrentRegion.Copy
-      Dim sh As PowerPoint.ShapeRange
-      Set sh = sl.Shapes.Paste 'as table
-
-- Moving the Shape After Pasting
-
-  > sh(1).Top = 20:sh(1).Left = 20
+   ![pstesld](../images/pstesld.PNG)
 
 - Using the PasteSpecial Method
 
-  - Pasting as Picture
+  ![ppspec](../images/ppspec.PNG)
 
-    > Set sh = sl.Shapes.PasteSpecial(ppPasteEnhancedMetafile)
-
-  - Pasting as Plain Text
-
-    > Set sh = sl.Shapes.PasteSpecial(ppPasteText)
-
-  - Pasting as RTF Text
-
-    > Set sh = sl.Shapes.PasteSpecial(ppPasteRTF) 
-
-  - Pasting as an OLE Object
-
-    > Set sh = sl.Shapes.PasteSpecial(ppPasteOLEObject)
-
-  - Linking an OLE Object to the Source File
-
-    > Set sh = sl.Shapes.PasteSpecial(DataType:=ppPasteOLEObject, Link:=msoTrue)
-
-## Const Variables
+  > Set sh = sl.Shapes.PasteSpecial(DataType:=ppPasteOLEObject, Link:=msoTrue)
 
 ​	
 
-```
-Private Const Curs As String = "copy-excel-to-powerpoint"
-```
