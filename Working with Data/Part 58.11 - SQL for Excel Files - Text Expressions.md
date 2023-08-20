@@ -1,6 +1,6 @@
 ## Part 58.11 - SQL for Excel Files - Text Expressions
 
-![adogro](../images/Tcprof.PNG)
+![adogro](../images/txtex.PNG)
 
 #### Concatenating & Converting
 
