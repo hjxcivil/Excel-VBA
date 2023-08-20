@@ -8,7 +8,7 @@
 
 #### The Len Function
 
-![groupmul](../images/lenf.PNG)
+![Lenf](../images/Lenf.PNG)
 
 #### Left, InStr and Trim Functions
 
