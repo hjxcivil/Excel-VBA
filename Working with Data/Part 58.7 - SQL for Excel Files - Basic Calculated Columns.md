@@ -1,6 +1,6 @@
 ## Part 58.7 - SQL for Excel Files - Basic Calculated Columns
 
-![adogro](../images/Calcol.PNG)
+![CalCol](../images/CalCol.PNG)
 
 #### Adding Columns & Using Aliases
 
