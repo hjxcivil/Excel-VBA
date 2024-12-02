@@ -3,19 +3,19 @@
 - #### Generate the Word form sheets
 
 
-![gtfs](C:\Users\13198\Desktop\new trail\images\gtfs.PNG)
+![gtfs](../images/gtfs.PNG)
 
 - #### Adding a single header
 
 
-![adsh](C:\Users\13198\Desktop\new trail\images\adsh.PNG)
+![adsh](../images/adsh.PNG)
 
 - #### Different headers for odd and even pages
 
 
-![hfep](C:\Users\13198\Desktop\new trail\images\hfep.PNG)
+![hfep](../images/hfep.PNG)
 
 - #### Looping Through the Tables Collection
 
-![ctpj](C:\Users\13198\Desktop\new trail\images\ctpj.PNG)
+![ctpj](../images/ctpj.PNG)
 
