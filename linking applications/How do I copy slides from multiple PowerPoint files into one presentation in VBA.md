@@ -2,15 +2,15 @@
 
 #### Insert Slides from a File or  multiple
 
-![cpsl](..\images\cpsl.PNG)
+![cpsl](../images/cpsl.PNG)
 
 - Add a textbox to Each Slide(cons Outline view & Slide Show)
 
-  ![adtf](..\images\adtf.PNG)
+  ![adtf](../images/adtf.PNG)
   
 - Adding a Title Placeholder(to fix outline view or slide show)
 
-  ![ssov](..\images\ssov.PNG)
+  ![ssov](../images/ssov.PNG)
 
 ​	
 
