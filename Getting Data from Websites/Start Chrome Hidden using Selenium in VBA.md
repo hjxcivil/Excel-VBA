@@ -2,5 +2,5 @@
 
 #### Running Headless Chrome
 
-![sehdl](C:\Users\13198\Desktop\new trail\images\sehdl.PNG)
+![sehdl](../images/sehdl.PNG)
 

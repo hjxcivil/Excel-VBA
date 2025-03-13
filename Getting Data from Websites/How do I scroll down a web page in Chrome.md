@@ -2,5 +2,5 @@
 
 #### Printing page using default
 
-![sescl](C:\Users\13198\Desktop\new trail\images\sescl.PNG)
+![sescl](../images/sescl.PNG)
 

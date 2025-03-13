@@ -4,11 +4,11 @@
 
 #### Basic Using of Select Element 
 
-![bssel](C:\Users\13198\Desktop\new trail\images\bssel.PNG)
+![bssel](../images/bssel.PNG)
 
 #### Selecting & Writing Result to excel
 
-![wtexl](C:\Users\13198\Desktop\new trail\images\wtexl.PNG)
+![wtexl](../images/wtexl.PNG)
 
 #### Opening Google Chrome in VBA
 

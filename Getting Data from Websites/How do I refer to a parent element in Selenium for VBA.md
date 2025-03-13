@@ -2,4 +2,4 @@
 
 #### Refer to parent node
 
-![sepr](C:\Users\13198\Desktop\new trail\images\sepr.PNG)
+![sepr](../images/sepr.PNG)

@@ -2,5 +2,5 @@
 
 #### Running Full Screen Chrome
 
-![sefl](C:\Users\13198\Desktop\new trail\images\sefl.PNG)
+![sefl](../images/sefl.PNG)
 
