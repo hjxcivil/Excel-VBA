@@ -1,8 +1,6 @@
-# Part 58.3 - SQL for Excel Files - Selecting the Top N Rows
+### Part 58.3 - SQL for Excel Files - Selecting the Top N Rows
 
-[TOC]
-
-## Selecting Top Rows from a Query
+#### Selecting Top Rows from a Query
 
 - Adding the Top Keyword to a Query
 

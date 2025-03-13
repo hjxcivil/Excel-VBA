@@ -1,8 +1,6 @@
-# Part 58.1 - SQL for Excel Files - Basic Select Statements
+### Part 58.1 - SQL for Excel Files - Basic Select Statements
 
-[TOC]
-
-## Writing Basic SQL Queries for Excel
+#### Writing Basic SQL Queries for Excel
 
 - Connect to an Excel File
 

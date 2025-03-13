@@ -1,50 +1,8 @@
-# Part 58.12 - SQL for Excel Files - Aggregation Functions
+### Part 58.12 - SQL for Excel Files - Aggregation Functions
 
-[TOC]
+- Aggregation Functions in SQL(count ,sum , round , min ,max, avg)
 
-## Aggregation Functions in SQL
-
-- Summing a Column
-
-  > "SELECT Sum([f].[Run Time]) AS [Total Run Time] FROM [Film$] AS [f]"
-
-- Mixing Aggregated and Non-Aggregated Columns
-
-  > "SELECT Sum([f].[Run Time]) AS [Total Run Time], f.[Title] FROM [Film$] AS [f]"    - > ERROR!
-
-- Counting Values and Rows
-
-  > "SELECT Sum([f].[Run Time]) AS [Total Run Time], Count(f.[Title]) AS [Count of Titles] FROM [Film$] AS [f]"
-  >
-  > Count(*) AS [Count of Rows]
-
-- Min and Max Values
-
-  > Max([f].[Run Time])
-  >
-  > Min(f.[Title])
-
-- Caculating Averages
-
-  > Avg([f].[Run Time])
-  >
-  > Round(Avg([f].[Run Time]), 2)
-
-- Standard Deviation and Variance
-
-  > StDev StDevP Var VarP
-
-- Where clause apply before Aggregation get calculated
-
-- Aggregates and Other Calculations
-
-  - Using Aggregates in Other Calculations
-
-    > "SELECT Max(f.[Run Time]) - Min(f.[Run Time]) AS [Run Time Range]       
-
-  - Aggregating a Calculated Value
-
-    > "SELECT Avg(f.[Box Office] - f.[Budget]) AS [Average Profit]
+  ![bsag](../images/bsag.PNG)
 
 - Dealing with Nulls
 

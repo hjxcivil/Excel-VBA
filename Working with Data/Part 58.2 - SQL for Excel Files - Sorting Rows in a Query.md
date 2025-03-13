@@ -1,8 +1,6 @@
-# Part 58.2 - SQL for Excel Files - Sorting Rows in a Query
+### Part 58.2 - SQL for Excel Files - Sorting Rows in a Query
 
-[TOC]
-
-## Sorting Rows in a Query
+#### Sorting Rows in a Query
 
 - The Order By Clause
 
