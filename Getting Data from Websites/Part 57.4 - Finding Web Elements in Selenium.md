@@ -2,22 +2,22 @@
 
 ![fepff](../images/fepff.PNG)
 
-#### Finding an Element by ID ...
+##### Finding an Element by ID ...
 
 ![fdsg](../images/fdsg.PNG)
 
-#### Finding Elements by Tag
+##### Finding Elements by Tag
 
 ![cdftg](../images/cdftg.PNG)
 
-#### Narrowing the Scope & Further
+##### Narrowing the Scope & Further
 
 ![nrsp](../images/nrsp.PNG)
 
-#### Finding Elements by Class or Link text
+##### Finding Elements by Class or Link text
 
 ![fbct](../images/fbct.PNG)
 
-#### Finding Elements by Css or xPath
+##### Finding Elements by Css or xPath
 
 ![fbcx](../images/fbcx.PNG)
