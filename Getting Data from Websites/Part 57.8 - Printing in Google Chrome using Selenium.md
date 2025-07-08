@@ -1,4 +1,4 @@
-## Part 57.8 - Printing in Google Chrome using Selenium
+### Part 57.8 - Printing in Google Chrome using Selenium
 
 ![ptsv](../images/ptsv.PNG)
 

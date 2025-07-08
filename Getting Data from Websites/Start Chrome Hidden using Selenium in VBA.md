@@ -1,6 +1,6 @@
-## Start Chrome Hidden using Selenium in VBA
+### Start Chrome Hidden using Selenium in VBA
 
-#### Running Headless Chrome
+##### Running Headless Chrome
 
 ![sehdl](../images/sehdl.PNG)
 

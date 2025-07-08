@@ -1,4 +1,4 @@
-## Part 57.5 - Implicit and Explicit Waits in Selenium
+### Part 57.5 - Implicit and Explicit Waits in Selenium
 
 ![fepff](../images/fepff.PNG)
 

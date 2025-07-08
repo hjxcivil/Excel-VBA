@@ -2,15 +2,15 @@
 
 ![inssb](../images/inssb.PNG)
 
-- #### Downloading & Installing Selenium Basic  and Chrome Driver
+- ##### Downloading & Installing Selenium Basic  and Chrome Driver
 
   ![seniumdriver](../images/seniumdriver.PNG)
 
-- #### Copying  Driver to the Selenium Folder & Referencing the selenium
+- ##### Copying  Driver to the Selenium Folder & Referencing the selenium
 
   ![senref](../images/senref.PNG)
 
-- #### Opening Google Chrome in VBA
+- ##### Opening Google Chrome in VBA
 
   ![opSene](../images/opSene.PNG)
 
