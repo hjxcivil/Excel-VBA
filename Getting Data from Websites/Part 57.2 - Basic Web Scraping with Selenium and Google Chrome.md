@@ -1,4 +1,4 @@
-## Part 57.2 - Basic Web Scraping with Selenium and Google Chrome
+### Part 57.2 - Basic Web Scraping with Selenium and Google Chrome
 
 ![bsspf](../images/bsspf.PNG)
 
