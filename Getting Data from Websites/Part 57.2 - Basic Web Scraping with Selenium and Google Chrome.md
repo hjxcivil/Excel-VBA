@@ -2,22 +2,22 @@
 
 ![bsspf](../images/bsspf.PNG)
 
-#### Navigating to a URL
+##### Navigating to a URL
 
 ![senvb](../images/senvb.PNG)
 
-#### Typing Text into an Input Box
+##### Typing Text into an Input Box
 
 ![seinput](../images/seinput.PNG)
 
-#### Handling the results
+##### Handling the results
 
 ![selRes](../images/selRes.PNG)
 
-#### Writing an Entire Table into Excel
+##### Writing an Entire Table into Excel
 
 ![wetr](../images/wetr.PNG)
 
-#### Writing Table Cell Text into Excel
+##### Writing Table Cell Text into Excel
 
 ![ttcell](../images/ttcell.PNG)
