@@ -4,7 +4,7 @@
 
 #### Finding an Element by ID ...
 
-![wttt](../images/wttt.PNG)
+![PixPin_2025-07-11_05-33-07](../images/PixPin_2025-07-11_05-33-07.png)
 
 #### Finding Elements by Tag
 
