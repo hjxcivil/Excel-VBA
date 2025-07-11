@@ -1,25 +1,17 @@
 ### Part 57.5 - Implicit and Explicit Waits in Selenium
 
-![fepff](../images/fepff.PNG)
+![PixPin_2025-07-12_02-11-44](../images/PixPin_2025-07-12_02-11-44.png)
 
-#### Finding an Element by ID ...
+#### Failing to Find an Element 
 
 ![PixPin_2025-07-11_05-33-07](../images/PixPin_2025-07-11_05-33-07.png)
 
-#### Finding Elements by Tag
+#### Checking if an Element is Present
 
-![PixPin_2025-07-11_07-00-57](../images/PixPin_2025-07-11_07-00-57.png)
+![PixPin_2025-07-12_00-29-59](../images/PixPin_2025-07-12_00-29-59.png)
 
 
 
-#### Narrowing the Scope & Further
+#### Loop through the suggestions
 
-![nrsp](../images/nrsp.PNG)
-
-#### Finding Elements by Class or Link text
-
-![fbct](../images/fbct.PNG)
-
-#### Finding Elements by Css or xPath
-
-![fbcx](../images/fbcx.PNG)
+![PixPin_2025-07-12_01-20-30](../images/PixPin_2025-07-12_01-20-30.png)
