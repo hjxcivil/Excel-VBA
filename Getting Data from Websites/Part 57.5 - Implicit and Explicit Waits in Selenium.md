@@ -8,7 +8,9 @@
 
 #### Finding Elements by Tag
 
-![wtds](../images/wtds.PNG)
+![PixPin_2025-07-11_07-00-57](../images/PixPin_2025-07-11_07-00-57.png)
+
+
 
 #### Narrowing the Scope & Further
 
