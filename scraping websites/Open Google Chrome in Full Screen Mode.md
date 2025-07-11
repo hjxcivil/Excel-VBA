@@ -1,4 +1,4 @@
-## Open Google Chrome in Full Screen Mode
+### Open Google Chrome in Full Screen Mode
 
 #### Running Full Screen Chrome
 
