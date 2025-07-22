@@ -1,23 +1,17 @@
 ### **How do I use Google Translate with Excel VBA**
 
-![fepff](../images/fepff.PNG)
+#### Entering Text to be Translated
 
-#### Finding an Element by ID ...
+![PixPin_2025-07-23_02-03-51](../images/PixPin_2025-07-23_02-03-51.png)
 
-![wttt](../images/wttt.PNG)
+#### Extracting the Translated Text
 
-#### Finding Elements by Tag
+![PixPin_2025-07-23_01-46-31](../images/PixPin_2025-07-23_01-46-31.png)
 
-![wtds](../images/wtds.PNG)
+#### Changing the Language Used
 
-#### Narrowing the Scope & Further
+![PixPin_2025-07-23_02-02-38](../images/PixPin_2025-07-23_02-02-38.png)
 
-![nrsp](../images/nrsp.PNG)
+#### Setting the Text in the Query String
 
-#### Finding Elements by Class or Link text
-
-![fbct](../images/fbct.PNG)
-
-#### Finding Elements by Css or xPath
-
-![fbcx](../images/fbcx.PNG)
+![PixPin_2025-07-23_02-24-13](../images/PixPin_2025-07-23_02-24-13.png)
