@@ -1,4 +1,4 @@
-### Open Google Chrome in Full Screen Mode
+### How do I open Google Chrome in full screen mode
 
 ##### Running Full Screen Chrome
 
