@@ -1,4 +1,4 @@
-### **How do I use Google Translate with Excel VBA**
+### How do I use Google Translate with Excel VBA
 
 #### Entering Text to be Translated
 
