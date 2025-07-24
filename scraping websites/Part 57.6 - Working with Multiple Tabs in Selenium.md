@@ -10,8 +10,24 @@
 
 ![PixPin_2025-07-13_02-21-07](../images/PixPin_2025-07-13_02-21-07.png)
 
+#### A practical example for Wikipedia
+
+- The Stale Element Reference Errors
+
+  ![PixPin_2025-07-24_16-06-35](../images/PixPin_2025-07-24_16-06-35.png)
+
+- Opening Multiple Tabs and Looping Through Them
+
+  ![PixPin_2025-07-24_16-35-03](../images/PixPin_2025-07-24_16-35-03.png)
+
+- Opening One Window at a Time
+
+  ![PixPin_2025-07-24_16-47-21](../images/PixPin_2025-07-24_16-47-21.png)
+
+- af
+
 
 
 #### Loop through the suggestions
 
-![PixPin_2025-07-12_01-20-30](../images/PixPin_2025-07-12_01-20-30.png)
+
