@@ -1,4 +1,4 @@
-## Part 58.6 - SQL for Excel Files - Text Criteria and the Like Operator
+### Part 58.6 - SQL for Excel Files - Text Criteria and the Like Operator
 
 ![adogro](../images/Tcprof.PNG)
 
