@@ -1,49 +1,12 @@
-# Scraping Websites with Internet Explorer or XML HTTP Requests
+### Scraping Websites with IE or XML HTTP Requests
 
-[TOC]
+##### compare ie with xml req
 
-## Controlling Internet Explorer with VBA
+![PixPin_2025-08-03_12-31-53](C:\Users\13198\Documents\GitHub\Excel-VBA\images\PixPin_2025-08-03_12-31-53.PNG)
 
-- Referencing the Required Object Libraries
+##### FDF
 
-  - *Microsoft Internet Controls*
 
-  - *Microsoft HTML Object Library*
-
-    `Dim IE As New SHDocVw.InternetExplorer`
-    `Dim HTMLDoc As MSHTML.HTMLDocument`
-
-- Navigating to a Web Page
-  `IE.navigate "https://www.oddschecker/com/golf/memorial-tournament/winner"`
-
-- Checking that IE is Ready
-
-- Referencing an HTML Document
-
-- Getting a Reference to an Element by ...
-
-- Testing the Code
-
-  ^Sub *ScrapeOddsUsingIE*()
-
-      Dim IE As New SHDocVw.InternetExplorer
-      Dim HTMLDoc As MSHTML.HTMLDocument
-      Dim HTMLDiv As MSHTML.IHTMLElement
-      Dim HTMLTable As MSHTML.IHTMLElement
-          
-      IE.Visible = True
-      IE.navigate "https://www.oddschecker.com/golf/memorial-tournament/winner"
-      
-      Do While IE.readyState <> READYSTATE_COMPLETE Or IE.Busy
-      Loop
-      
-      Set HTMLDoc = IE.document
-      Set HTMLDiv = HTMLDoc.getElementById("oddsTableContainer")
-      Set HTMLTable = HTMLDiv.getElementsByTagName("table")(0)
-      
-      Debug.Print HTMLTable.className
-
-  End Sub
 
 ## The XML HTTP Request Approach
 
