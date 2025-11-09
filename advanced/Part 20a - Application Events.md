@@ -6,7 +6,7 @@
 
 #### Creating Application-Level Events
 
-- Enabling App-Lever events(Method 1)
+- Enabling App-Level events(Method 1)
 
   ![apen](../images/apen.PNG)
 
