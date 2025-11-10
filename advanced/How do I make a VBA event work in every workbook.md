@@ -1,8 +1,8 @@
 ### How do I make a VBA event work in every workbook
 
-- Built in & Declaring of Constants
+- workbook and worksheet events
 
-  ![cnst](../images/cnst.PNG)
+  ![PixPin_2025-11-10_14-35-53](../images/PixPin_2025-11-10_14-35-53.PNG)
 
 - Built in & Declaring of Enum
 
