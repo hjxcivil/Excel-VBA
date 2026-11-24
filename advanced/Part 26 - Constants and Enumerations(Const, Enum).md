@@ -2,8 +2,8 @@
 
 - Built in & Declaring of Constants
 
-  ![cnst](../images/cnst.PNG)
+  ![cnst](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125001919371.PNG)
 
 - Built in & Declaring of Enum
 
-  ![enum](../images/enum.PNG)
+  ![enum](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125002004142.PNG)
