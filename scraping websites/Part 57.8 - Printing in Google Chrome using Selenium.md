@@ -1,12 +1,12 @@
 ### Part 57.8 - Printing in Google Chrome using Selenium
 
-![ptsv](../images/ptsv.PNG)
+![ptsv](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021915970.PNG)
 
 #### Printing page using default
 
-![spdf](../images/spdf.PNG)
+![spdf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021933777.PNG)
 
-#### Customize the setting of printing 
+#### Customize the setting of printing
 
-![cpst](../images/cpst.PNG)
+![cpst](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021951413.PNG)
 

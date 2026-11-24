@@ -24,4 +24,4 @@
 
 - Using Query Results to Provide Users with a Choice
 
-  ![fmpk](../images/fmpk.PNG)
+  ![fmpk](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023942170.PNG)

@@ -1,19 +1,19 @@
-## Part 58.8 - SQL for Excel Files - Conditional Functions
+### Part 58.8 - SQL for Excel Files - Conditional Functions
 
-![adogro](../images/conf.PNG)
+![adogro](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024340747.PNG)
 
 #### Iif Comparing & Sorting
 
-![bscr](../images/iifbsc.PNG)
+![bscr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024350313.PNG)
 
 #### Nested Iif
 
-![groupmul](../images/iifnst.PNG)
+![groupmul](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024358462.PNG)
 
 #### Operator & basic Switch function
 
-![groupmc](../images/bscsw.PNG)
+![groupmc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024405815.PNG)
 
 #### Nest Switch & Sort Using Switch
 
-![groye](../images/swst.PNG)
+![groye](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024414111.PNG)

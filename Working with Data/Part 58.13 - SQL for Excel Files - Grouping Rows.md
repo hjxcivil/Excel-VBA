@@ -2,21 +2,21 @@
 
 - Basic Use of Group By 
 
-  ![bsgp](../images/bsgp.PNG)
+  ![bsgp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024702239.PNG)
 
 - Sorting & Where in Aggregated Values  
 
-  ![stag](../images/stag.PNG)
+  ![stag](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024712211.PNG)
 
 - Grouping on Multiple Fields & Calculations
 
-  ![gpmc](../images/gpmc.PNG)
+  ![gpmc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024720264.PNG)
 
 - Grouping & sorting by Year
 
-  ![gsby](../images/gsby.PNG)
+  ![gsby](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024730981.PNG)
 
 - Group & Sorting by Month Number
 
-  ![gsbm](../images/gsbm.PNG)
+  ![gsbm](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024744290.PNG)
 

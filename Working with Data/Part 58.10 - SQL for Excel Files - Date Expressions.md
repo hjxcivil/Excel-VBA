@@ -2,8 +2,8 @@
 
 - Formatting Dates & Calculating & DateValue, DateSerial
 
-  ![ftdt](../images/ftdt.PNG)
+  ![ftdt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024458597.PNG)
 
 - DateAdd & Calculate age
 
-  ![dtds](../images/dtds.PNG)
+  ![dtds](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024505803.PNG)

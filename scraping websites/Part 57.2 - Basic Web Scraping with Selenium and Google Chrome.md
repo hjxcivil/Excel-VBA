@@ -1,6 +1,6 @@
 ### Part 57.2 - Basic Web Scraping with Selenium and Google Chrome
 
-![bsspf](../images/bsspf.PNG)
+![bsspf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021157860.PNG)
 
 - ##### Navigating to a URL
 
@@ -8,17 +8,17 @@
 
 - ##### Typing Text into an Input Box
 
-  ![seinput](../images/seinput.PNG)
+  ![seinput](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021209815.PNG)
 
 - ##### Handling the results
 
-  ![selRes](../images/selRes.PNG)
+  ![selRes](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021219341.PNG)
 
 - ##### Writing an Entire Table into Excel
 
-  ![wetr](../images/wetr.PNG)
+  ![wetr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021231989.PNG)
 
 - ##### Writing Table Cell Text into Excel
 
-  ![ttcell](../images/ttcell.PNG)
+  ![ttcell](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021242077.PNG)
 

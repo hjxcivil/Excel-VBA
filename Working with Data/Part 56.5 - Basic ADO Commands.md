@@ -2,12 +2,12 @@
 
 - Returning query results Using rs or cmd
 
-  ![bsad](../images/bsad.PNG)
+  ![bsad](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023640519.PNG)
 
 - Executing Commands which don't return results(insert values . . .)
 
-  ![adis](../images/adis.PNG)
+  ![adis](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023650983.PNG)
 
 - Updating & Deleting Data
 
-  ![upde](../images/upde.PNG)
+  ![upde](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023703744.PNG)

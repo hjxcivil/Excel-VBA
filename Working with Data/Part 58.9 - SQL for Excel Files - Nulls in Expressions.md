@@ -2,12 +2,12 @@
 
 - Replacing Nulls with Different Data Types
 
-  ![rsnl](../images/rsnl.PNG)
+  ![rsnl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024428724.PNG)
 
 - Checking for Null in Text Columns
 
-  ![nutt](../images/nutt.PNG)
+  ![nutt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024435941.PNG)
 
 -  Replacing Dates using IsNull
 
-  ![nudt](../images/nudt.PNG)
+  ![nudt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024443309.PNG)

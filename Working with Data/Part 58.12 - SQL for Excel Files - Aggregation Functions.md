@@ -2,7 +2,7 @@
 
 - Aggregation Functions in SQL(count ,sum , round , min ,max, avg)
 
-  ![bsag](../images/bsag.PNG)
+  ![bsag](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125024639941.PNG)
 
 - Dealing with Nulls
 

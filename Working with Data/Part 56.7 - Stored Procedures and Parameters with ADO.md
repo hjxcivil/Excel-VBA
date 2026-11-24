@@ -2,9 +2,9 @@
 
 - Executing a stored procedure with single parameter
 
-  ![sgpe](../images/sgpe.PNG)
+  ![sgpe](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023816307.PNG)
 
 - Executing procedure with multiple pm & capture output parameter
 
-  ![stmp](../images/stmp.PNG)
+  ![stmp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023826562.PNG)
 

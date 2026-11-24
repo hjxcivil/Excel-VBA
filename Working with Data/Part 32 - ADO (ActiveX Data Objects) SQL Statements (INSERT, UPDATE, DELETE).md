@@ -2,33 +2,33 @@
 
 - Basic insert statement(sql & access)
 
-  ![adbs](../images/adbs.PNG)
+  ![adbs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023330425.PNG)
 
 - Insert Excel cells 
 
-  ![asie](../images/asie.PNG)
+  ![asie](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023350956.PNG)
   
 - Executing multiple statements & dealing with dynamic sql risk
 
-  ![dysk](../images/dysk.PNG)
+  ![dysk](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023403318.PNG)
   
 - Begin, Commit, Rollback Transactions
 
   - default without trans
   
-    ![rsdf](../images/rsdf.PNG)
+    ![rsdf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023416105.PNG)
   
   - Using trans(no records added )
   
-    ![adwt](../images/adwt.PNG)
+    ![adwt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023428899.PNG)
   
     
   
 - UPDATE statements
 
-  ![adup](../images/adup.PNG)
+  ![adup](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023438457.PNG)
 
 - DELETE statements
 
-  ![adte](../images/adte.PNG)
+  ![adte](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023449453.PNG)
 

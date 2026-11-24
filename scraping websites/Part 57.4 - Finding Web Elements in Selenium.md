@@ -1,23 +1,23 @@
 ### Part 57.4 - Finding Web Elements in Selenium
 
-![fepff](../images/fepff.PNG)
+![fepff](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021355899.PNG)
 
 ##### Finding an Element by ID ...
 
-![fdsg](../images/fdsg.PNG)
+![fdsg](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021430646.PNG)
 
 ##### Finding Elements by Tag
 
-![cdftg](../images/cdftg.PNG)
+![cdftg](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021442139.PNG)
 
 ##### Narrowing the Scope & Further
 
-![nrsp](../images/nrsp.PNG)
+![nrsp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021454722.PNG)
 
 ##### Finding Elements by Class or Link text
 
-![fbct](../images/fbct.PNG)
+![fbct](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021506888.PNG)
 
 ##### Finding Elements by Css or xPath
 
-![fbcx](../images/fbcx.PNG)
+![fbcx](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125021523264.PNG)

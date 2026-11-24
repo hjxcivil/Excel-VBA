@@ -2,18 +2,18 @@
 
 - Parameterising an SQL Statement 
 
-  ![uscd](../images/uscd.PNG)
+  ![uscd](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023720560.PNG)
 
 - Mapping multiple Values to Parameters
 
-  ![pamt](../images/pamt.PNG)
+  ![pamt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023732866.PNG)
 
 - Parameters objects and datatypes
 
-  ![peod](../images/peod.PNG)
+  ![peod](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023742450.PNG)
 
   >   https://www.w3schools.com/asp/ado_datatypes.asp
 
 - Reusing parameter in a  loop
 
-  ![rspa](../images/rspa.PNG)
+  ![rspa](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125023757738.PNG)
