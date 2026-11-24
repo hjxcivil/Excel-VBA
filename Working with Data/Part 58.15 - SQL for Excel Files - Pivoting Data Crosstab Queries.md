@@ -2,8 +2,8 @@
 
 - Adding a Transform Statement & sorting
 
-  ![adts](../images/adts.PNG)
+  ![adts](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025112950.PNG)
 
 - Replacing Nulls  & Controlling Multiple Criteria
 
-  ![adff](../images/adff.PNG)
+  ![adff](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025121999.PNG)

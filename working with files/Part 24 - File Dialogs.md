@@ -1,25 +1,17 @@
-## Picking Files and Folders
+### Picking Files and Folders
 
 - #### Displaying a File Open Dialog
 
-  ![fdff](../images/fdff.PNG)
+  ![fdff](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025836788.PNG)
 
 - #### Using the Save As Dialog
 
-  ![fsve](../images/fsve.PNG)
+  ![fsve](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025844903.PNG)
 
 - #### Using File and Folder Pickers
 
-  ![fdfp](../images/fdfp.PNG)
+  ![fdfp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025854662.PNG)
 
 - #### Folder Picker Dialog
 
-  ![flpk](../images/flpk.PNG)
-
-
-
-
-​    
-
-
-
+  ![flpk](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025902127.PNG)

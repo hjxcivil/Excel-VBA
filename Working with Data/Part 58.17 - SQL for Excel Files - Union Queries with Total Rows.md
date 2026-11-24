@@ -1,23 +1,23 @@
-## Part 58.17 - SQL for Excel Files - Union Queries with Total Rows
+### Part 58.17 - SQL for Excel Files - Union Queries with Total Rows
 
-![uttl](../images/uttl.PNG)
+![uttl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025246971.PNG)
 
 #### Creating Summary Row & Adding Criteria 
 
-![cbnu](../images/cbnu.PNG)
+![cbnu](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025256397.PNG)
 
 #### Sorting with Summary Row
 
-![stunion](../images/stunion.PNG)
+![stunion](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025305267.PNG)
 
 #### Sort With Grouping Rows[Subtotal] ...
 
-![SortSubtotal](../images/SortSubtotal.PNG)
+![SortSubtotal](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025315459.PNG)
 
 ####  Improving the Appearance of the Results
 
-![impapp](../images/impapp.PNG)
+![impapp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025325319.PNG)
 
 #### Mergining & Adding Grand Ttl
 
-![mggt](../images/mggt.PNG)
+![mggt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025348504.PNG)

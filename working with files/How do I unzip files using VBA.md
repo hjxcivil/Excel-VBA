@@ -1,6 +1,6 @@
 ### How do I unzip files using VBA?
 
-![unzp](../images/unzp.PNG)
+![unzp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025636749.PNG)
 
 
 

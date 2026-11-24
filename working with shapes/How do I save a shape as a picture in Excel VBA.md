@@ -1,14 +1,14 @@
-## How do I save a shape as a picture in Excel VBA
+### How do I save a shape as a picture in Excel VBA
 
 #### The manual way to save shape as a pic
 
-![mapc](../images/mapc.PNG)
+![mapc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030115577.PNG)
 
 #### Copy a shape as a Pic
 
-![cps](../images/cps.PNG)
+![cps](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030124724.PNG)
 
 #### Create & Save a chart as pic
 
-![scpc](../images/scpc.PNG)
+![scpc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030133051.PNG)
 

@@ -1,8 +1,8 @@
-# Using the Application.InputBox Method
+### Using the Application.InputBox Method
 
 [TOC]
 
-## Limitations of the Generic InputBox Function
+#### Limitations of the Generic InputBox Function
 
 - No way to ctrl the data set returned and that can lead to runtime errors
 
@@ -10,11 +10,11 @@
 
 - modal - dialog: no interact
 
-## Using the Application.InputBox
+#### Using the Application.InputBox
 
 `FilmName = Application.InputBox("Enter a film name")`
 
-## Setting the Return Type
+#### Setting the Return Type
 
 | Value | Description                             |
 | :---- | :-------------------------------------- |
@@ -26,7 +26,7 @@
 | 16    | An error value, such as #N/A            |
 | 64    | An array of values                      |
 
-## Validating User Input
+#### Validating User Input
 
 - Returning a Number
 
@@ -50,7 +50,7 @@
 
   - Multiple Cells
 
-    ```
+    ```vbscript
     Set CopyRange = Application.InputBox(Prompt:="Choose cells to copy", Type:=8)
     Set DestinationRange = Application.InputBox(Prompt:="Choose destination cell", Type:=8)
         
@@ -63,23 +63,25 @@
 
   Sub ***ReturnArray***()
 
-      Dim FilmLengths() As Variant
-      FilmLengths = Application.InputBox(Prompt:="Choose lengths to convert", Type:=64)
+  ```vbscript
+  Dim FilmLengths() As Variant
+  FilmLengths = Application.InputBox(Prompt:="Choose lengths to convert", Type:=64)
+  
+  Dim LoopCounter As Long
+  For LoopCounter = LBound(FilmLengths, 1) To UBound(FilmLengths, 1)
       
-      Dim LoopCounter As Long
-      For LoopCounter = LBound(FilmLengths, 1) To UBound(FilmLengths, 1)
-          
-          FilmLengths(LoopCounter, 1) = Int(FilmLengths(LoopCounter, 1) / 60) & " hours " _
-              & (FilmLengths(LoopCounter, 1) Mod 60) & " minutes"
-      Next LoopCounter
+      FilmLengths(LoopCounter, 1) = Int(FilmLengths(LoopCounter, 1) / 60) & " hours " _
+          & (FilmLengths(LoopCounter, 1) Mod 60) & " minutes"
+  Next LoopCounter
+  
+  Dim ResultRange As Range
+  Set ResultRange = _
+      Application.InputBox(Prompt:="Choose where to put results", Type:=8)
       
-      Dim ResultRange As Range
-      Set ResultRange = _
-          Application.InputBox(Prompt:="Choose where to put results", Type:=8)
-          
-      Set ResultRange = _
-          Range(ResultRange, ResultRange.Offset(UBound(FilmLengths, 1) - 1, 0))
-      
-      ResultRange = FilmLengths
-
+  Set ResultRange = _
+      Range(ResultRange, ResultRange.Offset(UBound(FilmLengths, 1) - 1, 0))
+  
+  ResultRange = FilmLengths
+  ```
+  
   End Sub

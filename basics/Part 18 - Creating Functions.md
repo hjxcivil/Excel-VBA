@@ -1,20 +1,22 @@
-# Returning Values from Procedures
+### Returning Values from Procedures
 
 [TOC]
 
-## Writing a Simple Function
+#### Writing a Simple Function
 
 Function *CustomDate*() As String
 
-    CustomDate = Format(Date, "dddd dd mmmm yyyy")
+```vbscript
+CustomDate = Format(Date, "dddd dd mmmm yyyy")
+```
 
 End Function
 
-## Calling a Function
+#### Calling a Function
 
 `Range("A1").Value = "Created on " & CustomDate`
 
-## Creating Parameter
+#### Creating Parameter
 
 - Adding Parameters to a Function
 
@@ -32,11 +34,13 @@ End Function
 
   Function *CustomDate*(*DateToFormat* As Date, Optional *IncludeTime* As Boolean = False) As String
 
-      If IncludeTime Then
-          CustomDate = Format(DateToFormat, "dddd dd mmmm yyyy hh:mm:ss")
-      Else
-          CustomDate = Format(DateToFormat, "dddd dd mmmm yyyy")
-      End If
+  ```vbscript
+  If IncludeTime Then
+      CustomDate = Format(DateToFormat, "dddd dd mmmm yyyy hh:mm:ss")
+  Else
+      CustomDate = Format(DateToFormat, "dddd dd mmmm yyyy")
+  End If
+  ```
 
   End Function
 
@@ -48,34 +52,36 @@ End Function
   - fx -> User Defined
   - Can be Refreshed by F9
 
-## Rewriting Code to Use Functions
+#### Rewriting Code to Use Functions
 
 - Raw Code
 
   Sub *RateFilmsByLength*()
 
-      Dim RunningTime As Integer
+  ```vbscript
+  Dim RunningTime As Integer
+  
+  Sheet1.Activate
+  Range("A3").Select
+  
+  Do Until ActiveCell.Value = ""
       
-      Sheet1.Activate
-      Range("A3").Select
-      
-      Do Until ActiveCell.Value = ""
-          
-         RunningTime = ActiveCell.Offset(0, 3).Value
-         
-         If RunTime < 100 Then
-              ActiveCell.Offset(0, 4).Value = "Short"
-          ElseIf RunTime < 150 Then
-              ActiveCell.Offset(0, 4).Value = "Medium"
-          ElseIf RunTime < 200 Then
-              ActiveCell.Offset(0, 4).Value = "Long"
-          Else
-              ActiveCell.Offset(0, 4).Value = "Epic"
-          End If
-         
-         ActiveCell.Offset(1, 0).Select
-         
-      Loop
+     RunningTime = ActiveCell.Offset(0, 3).Value
+     
+     If RunTime < 100 Then
+          ActiveCell.Offset(0, 4).Value = "Short"
+      ElseIf RunTime < 150 Then
+          ActiveCell.Offset(0, 4).Value = "Medium"
+      ElseIf RunTime < 200 Then
+          ActiveCell.Offset(0, 4).Value = "Long"
+      Else
+          ActiveCell.Offset(0, 4).Value = "Epic"
+      End If
+     
+     ActiveCell.Offset(1, 0).Select
+     
+  Loop
+  ```
 
   End Sub
 
@@ -83,16 +89,18 @@ End Function
 
   Sub *RateFilmsByLength*()
       
-      Sheet1.Activate
-      Range("A3").Select
+  ```vbscript
+  Sheet1.Activate
+  Range("A3").Select
+  
+  Do Until ActiveCell.Value = ""
       
-      Do Until ActiveCell.Value = ""
-          
-         ActiveCell.Offset(0, 4).Value = FilmLength(ActiveCell.Offset(0, 3).Value)
-         
-         ActiveCell.Offset(1, 0).Select
-         
-      Loop
+     ActiveCell.Offset(0, 4).Value = FilmLength(ActiveCell.Offset(0, 3).Value)
+     
+     ActiveCell.Offset(1, 0).Select
+     
+  Loop
+  ```
 
   End Sub
 
@@ -100,14 +108,16 @@ End Function
 
   Function *FilmLength*(RunTime As Integer) As String
 
-      If RunTime < 100 Then
-          FilmLength = "Short"
-      ElseIf RunTime < 150 Then
-          FilmLength = "Medium"
-      ElseIf RunTime < 200 Then
-          FilmLength = "Long"
-      Else
-          FilmLength = "Epic"
-      End If
-
+  ```vbscript
+  If RunTime < 100 Then
+      FilmLength = "Short"
+  ElseIf RunTime < 150 Then
+      FilmLength = "Medium"
+  ElseIf RunTime < 200 Then
+      FilmLength = "Long"
+  Else
+      FilmLength = "Epic"
+  End If
+  ```
+  
   End Function

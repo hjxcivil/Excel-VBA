@@ -1,21 +1,21 @@
-## Text Files (FileSystemObjects)
+### Text Files (FileSystemObjects)
 
-![tspf](../images/tspf.PNG)
+![tspf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025736819.PNG)
 
 #### Creating & Opening an existing Text File
 
-![tswo](../images/tswo.PNG)
+![tswo](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025745197.PNG)
 
 #### Appending to a Text File
 
-![tsapp](../images/tsapp.PNG)
+![tsapp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025756347.PNG)
 
 
 
 #### Reading from a Text File
 
-![tsrt](../images/tsrt.PNG)
+![tsrt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025804259.PNG)
 
 #### Using Text File with Events
 
-![tslg](../images/tslg.PNG)
+![tslg](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025813042.PNG)

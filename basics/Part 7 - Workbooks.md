@@ -1,15 +1,17 @@
-# Using Workbooks in VBA
+### Using Workbooks in VBA
 
 [TOC]
 
-## Referring to Workbooks
+#### Referring to Workbooks
 
 - By Name
 
   Sub *ReferringToWorkbooksByName*()
 
-      Workbooks("Book2.xlsx").Activate
-      Workbooks("Top Movies 2012.xlsm").Activate
+  ```vbscript
+  Workbooks("Book2.xlsx").Activate
+  Workbooks("Top Movies 2012.xlsm").Activate
+  ```
 
   End Sub
 
@@ -17,8 +19,10 @@
 
   Sub *ReferringToWorkbooksByIndexNumber*()
 
-      Workbooks(2).Activate
-      Workbooks(1).Activate
+  ```vbscript
+  Workbooks(2).Activate
+  Workbooks(1).Activate
+  ```
 
   End Sub
 
@@ -26,10 +30,12 @@
 
   Sub *UsingActiveWorkbook*()
 
-      Workbooks("Book2.xlsx").Activate
-      ActiveWorkbook.Close
-      
-      ActiveWorkbook.Close True
+  ```vbscript
+  Workbooks("Book2.xlsx").Activate
+  ActiveWorkbook.Close
+  
+  ActiveWorkbook.Close True
+  ```
 
   End Sub
 
@@ -37,15 +43,17 @@
 
   Sub *UsingThisWorkbook*()
 
-      Workbooks("Book2.xlsx").Activate
-      
-      ThisWorkbook.Close
-
+  ```vbscript
+  Workbooks("Book2.xlsx").Activate
+  
+  ThisWorkbook.Close
+  ```
+  
   End Sub
 
 
 
-## Opening and Creating Workbooks
+#### Opening and Creating Workbooks
 
 - Opening Existing Workbooks
 
@@ -55,16 +63,16 @@
 
    `Workbooks.Add "Top Movies 2012.xltm"`
 
-## Saving Workbooks
+#### Saving Workbooks
 
 ​	`Workbooks("Book2.xlsx").Save`
 
-```
+```vbscript
 Workbooks.Add
 ActiveWorkbook.Save
 ```
 
-```
+```vbscript
 Workbooks.Add
 
 ActiveWorkbook.SaveAs "C:\Test\Test workbook.xlsx"
@@ -72,7 +80,7 @@ ActiveWorkbook.SaveAs "C:\Test\Test workbook.xlsx"
 
 - Changing the File Type
 
-  ```
+  ```vbscript
   Workbooks.Add
       ActiveWorkbook.SaveAs "C:\Test\Test workbook.xlsm", xlOpenXMLWorkbookMacroEnabled
   ```

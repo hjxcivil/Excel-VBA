@@ -2,12 +2,12 @@
 
 - The Shapes Collection & Referring to shapes
 
-  ![spbs](../images/spbs.PNG)
+  ![spbs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030157800.PNG)
 
 - Controlling Shape & Adding Basic shapes ,picture, button
 
-  ![adpc](../images/adpc.PNG)
+  ![adpc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030207968.PNG)
 
 - Adding and Arranging Multiple Shapes
 
-  ![admt](../images/admt.PNG)
+  ![admt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030217251.PNG)

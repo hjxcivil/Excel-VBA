@@ -2,15 +2,15 @@
 
 - #### Testing if a Folder Has Been Found
 
-  ![fext](../images/fext.PNG)
+  ![fext](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025513320.PNG)
 
 - ####  Looping Through Folders using  fso & dir
 
-  ![lpsr](../images/lpsr.PNG)
+  ![lpsr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025522415.PNG)
 
 - #### Coping files from special folders
 
-  ![cpss](../images/cpss.PNG)
+  ![cpss](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025532640.PNG)
 
 
 

@@ -1,8 +1,8 @@
-# Working with Sheets in VBA
+### Working with Sheets in VBA
 
 [TOC]
 
-## Referring to and Moving Between Sheets
+#### Referring to and Moving Between Sheets
 
 - Activating a Worksheet
 
@@ -15,7 +15,7 @@
 
   
 
-## Selecting Single and Multiple Sheets
+#### Selecting Single and Multiple Sheets
 
 - Selecting Rather than Activating
 
@@ -23,14 +23,14 @@
 
 - Multiple Select
 
-  ```
+  ```vbscript
   Worksheets("Sheet1").Select
   Worksheets("Sheet2").Select False
   ```
 
   
 
-## Sheet Names, Code Names and Index Numbers
+#### Sheet Names, Code Names and Index Numbers
 
 - Problems with Using Sheet Names
 
@@ -46,7 +46,7 @@
 
   
 
-## Manipulating Sheets
+#### Manipulating Sheets
 
 - Inserting Worksheets
 
@@ -63,10 +63,12 @@
 
   Sub *DeleteSpecificSheets*()
 
-      Application.DisplayAlerts = False
-      Worksheets("Sheet5").Delete
-      Sheets(Sheets.Count).Delete
-      Application.DisplayAlerts = True
+  ```vbscript
+  Application.DisplayAlerts = False
+  Worksheets("Sheet5").Delete
+  Sheets(Sheets.Count).Delete
+  Application.DisplayAlerts = True
+  ```
 
   End Sub
 

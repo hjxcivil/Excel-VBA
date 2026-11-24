@@ -2,15 +2,15 @@
 
 - ####  Recursive Looping Through Files in a Folder
 
-  ![lpof](../images/lpof.PNG)
+  ![lpof](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025602755.PNG)
 
 - ####  Inserting and resizing a pic . in one row
 
-  ![lpfs](../images/lpfs.PNG)
+  ![lpfs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025611732.PNG)
 
 - #### Inserting and resizing a pic . by diff rows
 
-  ![ptbs](../images/ptbs.PNG)
+  ![ptbs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125025619835.PNG)
 
 
 

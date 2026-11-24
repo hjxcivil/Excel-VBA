@@ -2,24 +2,18 @@
 
 - Adding Basic Text to a Shape
 
-  ![bstt](../images/bstt.PNG)
+  ![bstt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125031120331.PNG)
 
 - Formatting text in textframe2
 
-  ![fttr](../images/fttr.PNG)
+  ![fttr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125031128531.PNG)
 
 - Formatting Text in textframe
 
-  ![attr](../images/attr.PNG)
+  ![attr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125031138575.PNG)
 
 - Glow, Reflection and Shadow Effects frame2 only
 
-    ![tfgr](../images/tfgr.PNG)
+    ![tfgr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125031148194.PNG)
 
-    
-
-
-  
-
-  
 

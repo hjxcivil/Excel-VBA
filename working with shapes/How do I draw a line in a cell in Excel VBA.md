@@ -1,17 +1,17 @@
-## How do I draw a line in a cell in Excel VBA
+### How do I draw a line in a cell in Excel VBA
 
 #### Draw a line & relative positioned
 
-![drline](../images/drline.PNG)
+![drline](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030024244.PNG)
 
 #### Across Multiple Cells
 
-![acmult](../images/acmult.PNG)
+![acmult](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030033295.PNG)
 
 #### Drawing Multiple Lines at Intervals in a Cell
 
-![drmlt](../images/drmlt.PNG)
+![drmlt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030041593.PNG)
 
 #### Dividing a Cell with Multiple Diagonal Lines
 
-![diagln](../images/diagln.PNG)
+![diagln](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125030050531.PNG)

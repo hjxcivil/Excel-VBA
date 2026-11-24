@@ -1,16 +1,16 @@
-# Input Boxes
+### Input Boxes
 
 [TOC]
 
-## Displaying & Customising an Input Box
+#### Displaying & Customising an Input Box
 
-```
+```vbscript
 InputBox "Please type in your name", "Personal Details", "Enter name here..."
 ```
 
-## Capturing the Result
+#### Capturing the Result
 
-```
+```vbscript
 YourName = InputBox("Please type in your name", "Personal Details")
     
     If YourName = "" Then
@@ -20,11 +20,11 @@ YourName = InputBox("Please type in your name", "Personal Details")
     End If
 ```
 
-## Return Different Data Types
+#### Return Different Data Types
 
 Sub ***CreateAFilm***() 'InputBox only return String type
 
-```
+```vbscript
 
     Dim FilmName As String
     FilmName = InputBox("Type in a film name") 'Gravity
