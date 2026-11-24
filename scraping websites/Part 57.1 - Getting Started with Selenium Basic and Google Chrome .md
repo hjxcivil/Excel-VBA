@@ -1,6 +1,6 @@
 ### Part 57.1 - Getting Started with Selenium Basic and Google Chrome
 
-![inssb](../images/inssb.PNG)
+![inssb](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020932720.PNG)
 
 - ##### Downloading & Installing Selenium Basic  and Chrome Driver
 
@@ -8,11 +8,8 @@
 
 - ##### Copying  Driver to the Selenium Folder & Referencing the selenium
 
-  ![senref](../images/senref.PNG)
+  ![senref](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020945018.PNG)
 
 - ##### Opening Google Chrome in VBA
 
-  ![opSene](../images/opSene.PNG)
-
-
-
+  ![opSene](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020956006.PNG)

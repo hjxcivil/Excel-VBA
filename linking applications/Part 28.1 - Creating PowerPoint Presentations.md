@@ -6,18 +6,18 @@
 
 - Creating Presentations
 
-  ![presadd](../images/presadd.PNG)
+  ![presadd](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014757820.PNG)
 
   > Dim ppPres As PowerPoint.Presentation
   >     Set ppPres = ppApp.Presentations.Add
   
 - Creating a Title Slide
 
-  ![addSld](../images/addSld.PNG)
+  ![addSld](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014810832.PNG)
   
 - Adding Text to Textboxes
 
-  ![sldatt](../images/sldatt.PNG)
+  ![sldatt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014826040.PNG)
   
   *.TextRange.Text*
 
@@ -25,27 +25,27 @@
 
 - Copying an Excel Range into PowerPoint
 
-  ![sldexc](../images/sldexc.PNG)
+  ![sldexc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014840800.PNG)
 
   > ppSlide.Shapes.PasteSpecial ppPasteOLEObject
 
 - Adding a Custom Textbox and Formatting
 
-  ![ppcstbox](../images/ppcstbox.PNG)
+  ![ppcstbox](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014852750.PNG)
 
   
 
 
 #### Copying an Excel Chart into Power Point
 
-![sldct](../images/sldct.PNG)
+![sldct](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014904677.PNG)
 
 
 
 #### Applying a Template  or Theme to a Presentation
 
-![tplthm](../images/tplthm.PNG)
+![tplthm](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014916923.PNG)
 
 #### Saving and Closing a Presentation & Late binding
 
-![savecloselate](../images/savecloselate.PNG)
+![savecloselate](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014929734.PNG)

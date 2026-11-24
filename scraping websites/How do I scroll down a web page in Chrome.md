@@ -1,6 +1,6 @@
-## How do I scroll down a web page in Chrome
+### How do I scroll down a web page in Chrome
 
 #### Printing page using default
 
-![sescl](../images/sescl.PNG)
+![sescl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020046580.PNG)
 

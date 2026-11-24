@@ -2,5 +2,5 @@
 
 ##### Running Headless Chrome
 
-![sehdl](../images/sehdl.PNG)
+![sehdl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020427887.PNG)
 

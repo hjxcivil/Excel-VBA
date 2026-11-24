@@ -1,12 +1,12 @@
 ### Part 27.2 - Creating and Updating Linked Word Tables
 
-![wddttb](../images/wddttb.PNG)
+![wddttb](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014537483.PNG)
 
 #### Creating a New Word Document
 
 - Creating Sample Data
 
-  ![LsSampleData](../images/LsSampleData.png)
+  ![LsSampleData](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014550505.png)
 
   > [A1:C5]=RANDBETWEEN(1,100)
 
@@ -22,7 +22,7 @@
 
 - Checking The Document are Linked (F9 to refresh..)
 
-  ![Linkbsc](../images/Linkbsc.PNG)
+  ![Linkbsc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014606833.PNG)
 
 - Saving a Linked Doc
 
@@ -33,17 +33,17 @@
 
 - Viewing Links in the Word Document
 
-  ![EditLks](../images/EditLks.PNG)
+  ![EditLks](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014619483.PNG)
 
 - Changing the Linked Files Source & Write Code to Refresh
 
-  ![Uplks](../images/Uplks.PNG)
+  ![Uplks](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014632351.PNG)
 
 #### Creating and Updating Multiple Linked Tables
 
 - Create Multi Linked Table
 
-  ![Multiwdtbl](../images/Multiwdtbl.PNG)
+  ![Multiwdtbl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014651182.PNG)
 
 - Update Multi Word Links
 
@@ -56,8 +56,8 @@
 
 - Workbook_BeforeSave (*Click Save*)
 
-  ![bfsave](../images/bfsave.PNG)
+  ![bfsave](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014711851.PNG)
 
 - Workbook_AfterSave(*F12*)
 
-  ![afsv](../images/afsv.PNG)
+  ![afsv](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014723079.PNG)

@@ -1,23 +1,23 @@
 ### How do I copy Excel data into PowerPoint
 
-![pppfl](../images/pppfl.PNG)
+![pppfl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013151271.PNG)
 
 #### CopyDataIntoPowerpoint
 
 - Creating a New Presentation  &  Creating a  Blank Slide
 
-  ![ppblk](../images/ppblk.PNG)
+  ![ppblk](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013200981.PNG)
   
 - Creating Slides with a Custom Layout 
 
-  ![adslde](../images/adslde.PNG)
+  ![adslde](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013213659.PNG)
   
 - Copying and Pasting Excel Data into PowerPoint 
-   ![pstesld](../images/pstesld.PNG)
+   ![pstesld](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013229257.PNG)
 
 - Using the PasteSpecial Method
 
-  ![ppspec](../images/ppspec.PNG)
+  ![ppspec](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013245241.PNG)
 
   > Set sh = sl.Shapes.PasteSpecial(DataType:=ppPasteOLEObject, Link:=msoTrue)
 

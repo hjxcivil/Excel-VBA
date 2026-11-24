@@ -1,6 +1,6 @@
 ### How do I copy Word tables into Excel
 
- ![ctte](../images/ctte.PNG)
+![ctte](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013612047.PNG)
 
 - ***ImportWholeDoc***
 

@@ -1,16 +1,16 @@
-### How do I copy slides from multiple PowerPoint files into one presentation
+### How do I copy slides from multiple ppt files into one presentation
 
 #### Insert Slides from a File or  multiple
 
-![cpsl](../images/cpsl.PNG)
+![cpsl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013348437.PNG)
 
 - Add a textbox to Each Slide(cons Outline view & Slide Show)
 
-  ![adtf](../images/adtf.PNG)
+  ![adtf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013402765.PNG)
   
 - Adding a Title Placeholder(to fix outline view or slide show)
 
-  ![ssov](../images/ssov.PNG)
+  ![ssov](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013517100.PNG)
 
 ​	
 

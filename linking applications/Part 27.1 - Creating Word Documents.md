@@ -1,10 +1,10 @@
 ### Part 27.1 - Creating Word Documents
 
-![CreateWord](../images/CreateWord.PNG)
+![CreateWord](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014227192.PNG)
 
 #### Writing Text & Copying Data  into Word
 
-![mvp](../images/mvp.PNG)
+![mvp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014247798.PNG)
 
 #### Save and Close Document
 
@@ -22,7 +22,7 @@
 
 #### Using Version-Specific Methods
 
-![Verspec](../images/Verspec.PNG)
+![Verspec](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014308550.PNG)
 
 #### Using Template
 
@@ -32,7 +32,7 @@
   3. Insert -> Links -> Bookmarts : *ChartLocation*
   4. Saveas Word Template(*.dotx) : Movie Report Template
 
-  ![mrt](../images/mrt.PNG)
+  ![mrt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014335297.PNG)
   
 - Creating Documents from Templates
 
@@ -42,6 +42,6 @@
 
 - Using Template to Create report
 
-  ![tpll](../images/tpll.PNG)
+  ![tpll](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125014348825.PNG)
 
   

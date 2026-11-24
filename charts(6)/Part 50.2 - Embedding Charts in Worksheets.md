@@ -1,19 +1,19 @@
-## Part 50.2 - Embedding Charts in Worksheets
+### Part 50.2 - Embedding Charts in Worksheets
 
-![copf](../images/copf.PNG)
+![copf](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012150999.PNG)
 
 #### Creating a Chart in a Worksheet
 
 - Using the *AddChart*  *AddChart2* & *Add* Method
 
-  ![ctobj](../images/ctobj.PNG)
+  ![ctobj](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012204736.PNG)
 
 
 #### Specifying the Chart Type, Position and Size
 
 - Specifying the Chart Type, Position and Size
 
-  ![adad2](../images/adad2.PNG)
+  ![adad2](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012220223.PNG)
 
   
 
@@ -21,7 +21,7 @@
 
 - Selecting Chart Data Conditionally - - - > *ChartOfRecentFilms*
 
-  ![cojrct](../images/cojrct.PNG)
+  ![cojrct](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012237533.PNG)
 
 #### Referencing the ChartObject and the Chart
 
@@ -34,14 +34,13 @@
 
 - Looping Over *ChartObjects*
 
-  ![ctlp](../images/ctlp.PNG)
+  ![ctlp](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012251835.PNG)
 
 - Converting *ChartObject* -- > *Chart* 
 
   ![coct](../images/coct.PNG)
 
 - Converting Chart Sheets to ChartObjects
-
 
 #### Controlling the Size and Position
 
@@ -55,6 +54,6 @@
 
 - Move & Position Multiple Charts to One Sheet
 
-  ![Mcctol](../images/Mcctol.PNG)
+  ![Mcctol](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012305348.PNG)
 
   

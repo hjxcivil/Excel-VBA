@@ -1,6 +1,6 @@
-## Part 50.1 - Introduction to Charts in VBA
+### Part 50.1 - Introduction to Charts in VBA
 
-![ctpfl](../images/ctpfl.PNG)
+![ctpfl](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012440455.PNG)
 
 #### Creating a New Chart
 
@@ -8,7 +8,7 @@
 
   ![CreateChart](../images/CreateChart.PNG)
 
-#### Selecting Data for the Chart 
+#### Selecting Data for the Chart
 
 - Selecting all kinds of Data for populating
 
@@ -17,7 +17,6 @@
 - Declaring Variabls to Loop Over a Range CreateOscarWinnerChart
 
   ![Winner](..//images/Winner.PNG)
-
 
 #### Changing the Source Data and Chart Type
 
@@ -36,4 +35,4 @@
 
   ![LyCoSt](../images/LyCoSt.PNG)
 
-- Applying Chart Templates   ***ch.ApplyChartTemplate "C:\ ....crtx"***
+- Applying Chart Templates   ***==ch.ApplyChartTemplate "C:\ ....crtx=="***

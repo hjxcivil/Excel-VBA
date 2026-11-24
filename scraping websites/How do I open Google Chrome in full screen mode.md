@@ -2,5 +2,5 @@
 
 ##### Running Full Screen Chrome
 
-![PixPin_2025-07-22_15-02-35](../images/PixPin_2025-07-22_15-02-35.png)
+![PixPin_2025-07-22_15-02-35](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125015917382.png)
 

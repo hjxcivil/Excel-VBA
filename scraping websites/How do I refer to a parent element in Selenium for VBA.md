@@ -2,4 +2,4 @@
 
 ##### Refer to parent node
 
-![sepr](../images/sepr.PNG)
+![sepr](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125015951796.PNG)

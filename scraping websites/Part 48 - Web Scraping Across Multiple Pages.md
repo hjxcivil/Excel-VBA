@@ -1,15 +1,15 @@
-## Part 48 - Web Scraping Across Multiple Pages
+### Part 48 - Web Scraping Across Multiple Pages
 
-![scmt](../images/scmt.PNG)
+![scmt](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020718642.PNG)
 
 #### Loop over Category List
 
-![scfs](../images/scfs.PNG)
+![scfs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020733388.PNG)
 
 #### Go through table
 
-![scdd](../images/scdd.PNG)
+![scdd](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020745679.PNG)
 
 #### Get to details page item
 
-![scrd](../images/scrd.PNG)
+![scrd](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125020757241.PNG)

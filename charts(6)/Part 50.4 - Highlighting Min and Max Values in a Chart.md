@@ -1,10 +1,10 @@
-## Part 50.4 - Highlighting Min and Max Values in a Chart
+### Part 50.4 - Highlighting Min and Max Values in a Chart
 
-![hmmff](../images/hmmff.PNG)
+![hmmff](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012504039.PNG)
 
 #### Create a Basic Chart in VBA
 
-![fmtbsc](../images/hlmm.PNG)
+![fmtbsc](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012520779.PNG)
 
 #### Highlighting Min Max values
 
@@ -12,6 +12,5 @@
 
 #### The Line Chart and Marker
 
-## ![lcmk](../images/lcmk.PNG)
-
+![lcmk](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125012638458.PNG)
 

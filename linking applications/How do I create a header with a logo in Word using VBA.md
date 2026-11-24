@@ -3,19 +3,19 @@
 - #### Generate the Word form sheets
 
 
-![gtfs](../images/gtfs.PNG)
+![gtfs](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013653343.PNG)
 
 - #### Adding a single header
 
 
-![adsh](../images/adsh.PNG)
+![adsh](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013710880.PNG)
 
 - #### Different headers for odd and even pages
 
 
-![hfep](../images/hfep.PNG)
+![hfep](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013726752.PNG)
 
 - #### Looping Through the Tables Collection
 
-![ctpj](../images/ctpj.PNG)
+![ctpj](https://cdn.jsdelivr.net/gh/hjxcivil/image-hosting@main/img/20261125013740558.PNG)
 
